@@ -1,0 +1,3 @@
+build_script:
+  - make
+  - make re && make fclean

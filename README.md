@@ -1,4 +1,6 @@
 # PSU_my_ls_2017
-[![Build status](https://api.travis-ci.org/NastyZ98/PSU_my_ls_2017.svg?branch=master)](https://travis-ci.org/NastyZ98/PSU_my_ls_2017)
+[![Build status](https://travis-ci.org/NastyZ98/my_ls.svg?branch=master)](https://travis-ci.org/NastyZ98/my_ls)
 
 Unix Programming
+
+> Usage : ./my_ls -[optional flags]
